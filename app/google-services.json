@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "906827760826",
+    "firebase_url": "https://train-announcement-261a2-default-rtdb.firebaseio.com",
+    "project_id": "train-announcement-261a2",
+    "storage_bucket": "train-announcement-261a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906827760826:android:dda5b1e8411de15b05ae83",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBllyuItr4NYoX118SrOukxmSdAFQMA-qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

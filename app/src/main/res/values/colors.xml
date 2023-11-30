@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#013B8A</color>
+    <color name="purple_600">#013B8A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="back_color">#13253D</color>
+    <color name="bot_back_color">#203757</color>
+    <color name="user_back_color">#6965ff</color>
+    <color name="fab_color">#6b6aff</color>
+
+</resources>
